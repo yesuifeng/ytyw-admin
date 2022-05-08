@@ -1,1 +1,0 @@
-import{u as s}from"./useAxios.4c6e3f89.js";const{request:a}=s(),r=({params:s})=>a({url:"/user/list",method:"get",params:s}),e=({params:s})=>a({url:"/role/list",method:"get",params:s});export{e as a,r as g};

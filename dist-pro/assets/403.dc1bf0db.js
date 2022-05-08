@@ -1,0 +1,1 @@
+import{_ as r}from"./Error.e3e05593.js";import{d as s,u as o,x as t,o as a,y as e,a as p}from"./index.fce40114.js";/* empty css                  */const u=s({setup(s){const{push:u}=o(),n=t(),d=()=>{var r;u(null==(r=n.addRouters[0])?void 0:r.path)};return(s,o)=>(a(),e(p(r),{type:"403",onErrorClick:d}))}});export{u as default};
